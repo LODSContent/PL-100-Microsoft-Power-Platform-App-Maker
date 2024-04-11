@@ -223,7 +223,7 @@ In this task you will setup a Microsoft Teams team for the Lamna Healthcare Comp
 
 3.  Select **+ New** and select **Dashboard | Power BI embedded**.
 
-4. Enter `Problem management` for **Display name**, select **Power BI report** for type, uncheck **Show reports in this environment only** and select **311 Workspace** for **Power BI workspace**, select **Problem management** for **Power BI report** and select **Save**.
+4. Enter `Problem management` for **Display name**, select **Power BI report** for type, uncheck **Show reports in this environment only** and select **311 Workspace** for **Power BI workspace**, select **Problem Report** for **Power BI report** and select **Save**. 
 
 5.  Select **Publish all customizations** and wait for the publishing to complete.
 
@@ -258,7 +258,7 @@ In this exercise, you will add a canvas application to Power BI as a visual.
 
 2.  Select **Workspaces** and then select to open **311 Workspace**.
 
-3.  Open the **Problem management** report.
+3.  Open the **Problem Report**.
 
 4.  Select **Edit**.
 
